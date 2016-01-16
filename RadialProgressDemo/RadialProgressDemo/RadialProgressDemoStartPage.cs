@@ -46,6 +46,10 @@ namespace RadialProgressDemo
             {
                 await Navigation.PushAsync(new RadialProgressFootballStatsDemo());
             };
+            btnAbout.Clicked += async (sender, args) =>
+            {
+                await Navigation.PushAsync(new RadialProgressAboutPage());
+            };
             Content = new StackLayout
             {
                 // this must be fill and expand in order for this to work
