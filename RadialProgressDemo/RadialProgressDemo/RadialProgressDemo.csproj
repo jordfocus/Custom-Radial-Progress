@@ -37,6 +37,7 @@
     <Compile Include="App.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RadialProgress.cs" />
+    <Compile Include="RadialProgressAboutPage.cs" />
     <Compile Include="RadialProgressDemoStartPage.cs" />
     <Compile Include="RadialProgressFootballStatsDemo.cs" />
     <Compile Include="RadialProgressColorsDemo.cs" />
