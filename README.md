@@ -21,6 +21,6 @@ BorderColor = Color.Blue,
 FillColor = Color.Green,
 TextColor = Color.White,
 DisplayMode = DisplayModeTypes.ShowPercentage
-};
+}; 
 
 Read more on https://dotjord.wordpress.com/ or just run the demo to see how this works.
